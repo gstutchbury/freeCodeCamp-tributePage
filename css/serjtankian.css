@@ -1,0 +1,15 @@
+body {
+    background-color: #212121;
+    color: #eeeeee;
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+    color: #ff8200;
+}
